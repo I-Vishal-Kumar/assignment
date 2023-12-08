@@ -86,7 +86,7 @@ const Home = () => {
   return (
     <>
       <nav className="bg-slate-200 h-[65px]">
-        <div className="container flex gap-11 px-[1rem] justify-between items-center">
+        <div className="flex gap-11 px-[1rem] justify-between items-center">
           {/* Logo */}
           <div
             style={{
